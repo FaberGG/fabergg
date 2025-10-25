@@ -17,7 +17,7 @@ I'm a technology enthusiast who loves exploring new frameworks and tools. When I
 ### 🌟 What I'm up to:
 - 🔭 Currently studying **Systems Engineering** 
 - 🌱 Learning new technologies and improving my full-stack skills
-- 🎨 Creating digital art and illustrations 
+- 🎨 Creating art and illustrations 
 - 📚 Always exploring the latest in web development
 - 🚀 Working on personal projects to expand my portfolio
 
@@ -26,6 +26,7 @@ I'm a technology enthusiast who loves exploring new frameworks and tools. When I
 - Exploring modern JavaScript frameworks
 - Developing my artistic skills alongside programming
 - Contributing to open source projects
+
 
 ## 🌐 Connect With Me:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/faber_navia) 
@@ -39,23 +40,7 @@ I'm a technology enthusiast who loves exploring new frameworks and tools. When I
 ## 🎨 Creative Side
 Beyond coding, I'm passionate about **digital art and illustration**. I regularly share my artwork on Instagram, combining my technical skills with creative expression. This artistic perspective helps me approach UI/UX design with a unique eye for aesthetics and user experience.
 -->
-## 🏗️ What I'm Building
-- 📱 Responsive web applications using modern frameworks
-- 🎮 Interactive experiences with Three.js
-- 🎨 Desktop applications with modern languages
-- 📊 Database Desings
 
-# 📊 GitHub Stats:
-<div align="center">
-  
-![](https://github-readme-stats.vercel.app/api?username=fabergg&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=fabergg&theme=shades-of-purple&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=fabergg&theme=shades-of-purple&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
-</div>
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=fabergg&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ## 💭 Random Dev Quote
 <div align="center">
